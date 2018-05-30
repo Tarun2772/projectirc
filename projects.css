@@ -1,0 +1,9 @@
+nav{
+    background-color: darkslategrey;
+    font-size: 1.5rem;
+}
+.card{
+    margin-left:5%;
+    margin-top: 5%;
+    float: left;
+}
